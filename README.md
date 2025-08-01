@@ -1,8 +1,8 @@
-# Como tem passado?
+# Não é o GitHub mais bonito do mundo, mas tudo aqui foi feito com muita vontade de aprender
 
 **`Desenvolvedor Backend`**
 
-Me chamo Aruã Emanuel, tenho 20 anos e sou de São Paulo. Sou formado em Programação de Jogos Digitais pela ETEC Jornalista Roberto Marinho e atualmente curso Engenharia de Software. Atualmente me dedico ao desenvolvimento back-end, com foco em Java e Spring Boot, além de estar aprofundando meus conhecimenntos em APIs REST, JPA, DTOs, validações, tratamento de erros e boas práticas com código limpo. Também estou explorando conceitos de design patterns e aprendendo testes com JUnit e Mockito.".
+Me chamo Aruã Emanuel, tenho 20 anos e sou de São Paulo. Sou formado em Programação de Jogos Digitais pela ETEC Jornalista Roberto Marinho e atualmente curso Engenharia de Software. Estou me dedicando ao desenvolvimento back-end, com foco em Java e Spring Boot, além de estar aprofundando meus conhecimenntos em APIs REST, JPA, DTOs, validações, tratamento de erros e boas práticas com código limpo. Também estou explorando conceitos de design patterns e aprendendo testes com JUnit e Mockito.".
 
 <p align="left">
     <a href="https://github.com/AruaTrindade?tab=repositories&sort=stargazers">
