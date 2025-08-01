@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Aruã Emanuel
+# Como tem passado?
 
 **`Desenvolvedor Backend`**
 
